@@ -73,7 +73,7 @@ h1 {
 
 .btn {
     padding: 15px 30px;
-    background: #0099ff;
+    background: #B3B0E9ff;
     color: white;
     font-size: 1rem;
     font-weight: bold;
@@ -89,7 +89,7 @@ h1 {
 
 
 .btn:hover {
-    background: #007acc;
+    background: #B3B0E9;
 }
 @media (max-width: 768px) {
     .content {

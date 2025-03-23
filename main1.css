@@ -36,7 +36,7 @@ header {
 }
 
 .btn:hover {
-    background-color: rgb(228, 18, 18);
+    background-color: #B3B0E9;
     color: #23033b;
 }
 
@@ -83,7 +83,14 @@ header {
     flex-direction: row-reverse;
     justify-content: flex-end;
 }
+.container a{
+    color: white;
+    text-decoration: none;
+}
+.container a:hover{
+    cursor: pointer;
 
+}
 /* Responsive */
 @media (max-width: 768px) {
     .container {
